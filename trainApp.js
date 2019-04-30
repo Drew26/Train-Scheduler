@@ -1,10 +1,3 @@
-
-// 3. Create a way to retrieve Trains from the Train database.
-// 4. Create a way to calculate the months worked. Using difference between Time and current time.
-//    Then use moment.js formatting to set difference in months.
-// 5. Calculate Total billed
-
-
 // Initialize Firebase
 var config = {
     apiKey: "AIzaSyBtUvb6qAALlezX0e3RVB_kuHsR2V8Ukyw",
